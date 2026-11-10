@@ -15,7 +15,7 @@ for (const dir of dirs) {
   if (!namePattern.test(pkg.name)) failures.push(`${dir} name`)
   if (pkg.scripts) failures.push(`${dir} scripts`)
   if (pkg.dependencies || pkg.devDependencies) failures.push(`${dir} dependencies`)
-  if (pkg.publishConfig?.access !== 'public') failures.push(`${dir} access`)
+  if (pkg.publishConfig) failures.push(`${dir} publishConfig`)
   const partOf = pkg.piHarness?.partOf
   if (partOf && !namePattern.test(partOf)) failures.push(`${dir} partOf`)
   if (Array.isArray(pkg.piHarness?.parts)) {

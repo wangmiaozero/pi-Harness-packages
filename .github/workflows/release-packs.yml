@@ -1,0 +1,44 @@
+name: Release packs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'theme-*/**'
+      - 'pet-*/**'
+  workflow_dispatch:
+    inputs:
+      package:
+        description: Package directory, for example pet-bigfish-3. Leave empty to publish every pack.
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-packs
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Select packs
+        env:
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+          INPUT_PACKAGE: ${{ inputs.package }}
+          BEFORE_SHA: ${{ github.event.before }}
+        run: node scripts/select-packs.mjs
+      - name: Publish releases and catalog
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_SHA: ${{ github.sha }}
+        run: node scripts/release-packs.mjs selected-packs.txt

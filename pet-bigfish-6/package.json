@@ -19,8 +19,5 @@
     "kind": "pet",
     "compatible": ">=2.4.0",
     "partOf": "@piharness/pet-bigfish"
-  },
-  "publishConfig": {
-    "access": "public"
   }
 }

@@ -2,6 +2,15 @@
 
 Pi-Harness 官方主题和桌宠。每个目录是一套独立资源，在 Pi-Harness 市场里单独安装。
 
+资源发布在这个仓库的 GitHub Releases。每个目录对应一个 ZIP，标签格式是 `pet-bigfish-3-v1.0.2`。市场清单是 `market-index` 分支上的 `catalog.json`，只记录已经发布成功的 ZIP。
+
+推送到 `main` 时，Actions 只发布本次改动的目录。第一次发布全部资源，或只发布一个目录时，手动运行 **Release packs**：
+
+- 发布全部：Package directory 留空。
+- 只发布一个：填写目录名，例如 `pet-bigfish-3`。
+
+同一个版本内容不变会跳过。同一个版本内容变了会停止，需要先提高该目录 `package.json` 的 `version`。
+
 ## 主题
 
 | 目录 | 名称 |
