@@ -1,8 +1,8 @@
 {
   "name": "@piharness/pet-bigfish-9",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
-  "description": "BigFish actions: 轻摆提示铃、清理后再试、上发条小鲸鱼、深吸气再开工、书堆找答案、梳梳尾巴边、算盘推演、听听贝壳、挽袖开工、望远镜看网页",
+  "description": "大肥鱼动作包 9：给大肥鱼桌宠添加 10 个新动作——轻摆提示铃、清理后再试、上发条小鲸鱼、深吸气再开工、书堆找答案、梳梳尾巴边、算盘推演、听听贝壳、挽袖开工、望远镜看网页。需要先安装大肥鱼（pet-bigfish）。 / BigFish action pack 9: adds 10 new actions to the BigFish pet, including reminder bells, retries, books, an abacus, and a telescope. Requires the BigFish pet (pet-bigfish).",
   "license": "MIT",
   "author": {
     "name": "wangmiao",

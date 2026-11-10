@@ -35,14 +35,14 @@ for (const dir of dirs) {
 const bigfishPkg = JSON.parse(await readFile(path.join(root, 'pet-bigfish/package.json'), 'utf8'))
 const baseClips = ['idle','idle_stretch','idle_yawn','thinking','working','working_search','working_command','waiting','success','error','dragging','dragging_release','head_pat','poke','tail','eat_token']
 const bigfishDirs = ['pet-bigfish', ...Array.from({ length: 19 }, (_, index) => `pet-bigfish-${index + 2}`)]
-if (bigfishPkg.version !== '1.0.2' || bigfishPkg.piHarness?.parts || bigfishPkg.piHarness?.partOf) {
+if (bigfishPkg.version !== '1.0.3' || bigfishPkg.piHarness?.parts || bigfishPkg.piHarness?.partOf) {
   failures.push('bigfish parts')
 }
 const clipOwners = new Map()
 let labeled = 0
 for (const dir of bigfishDirs) {
   const pkg = JSON.parse(await readFile(path.join(root, dir, 'package.json'), 'utf8'))
-  if (pkg.version !== '1.0.2') failures.push(`${dir} version`)
+  if (pkg.version !== '1.0.3') failures.push(`${dir} version`)
   const onDisk = await readdir(path.join(root, dir, 'clips'))
   if (dir === 'pet-bigfish') {
     const manifest = JSON.parse(await readFile(path.join(root, dir, 'pet-pack.json'), 'utf8'))

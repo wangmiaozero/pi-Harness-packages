@@ -1,8 +1,8 @@
 {
   "name": "@piharness/theme-grok",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
-  "description": "Official Pi-Harness Grok theme pack",
+  "description": "Grok 角色主题：深色界面配 Grok 风格的角色立绘，金色强调色，附带开场动画和角色语音。 / Grok character theme: a dark workspace with a Grok-styled character portrait, gold accents, and a startup animation with voice lines.",
   "license": "MIT",
   "author": {
     "name": "wangmiao",

@@ -1,8 +1,8 @@
 {
   "name": "@piharness/theme-glm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
-  "description": "Official Pi-Harness GLM theme pack",
+  "description": "GLM 角色主题：深色界面配 GLM 风格的角色立绘，蓝色强调色，附带开场动画和角色语音。 / GLM character theme: a dark workspace with a GLM-styled character portrait, blue accents, and a startup animation with voice lines.",
   "license": "MIT",
   "author": {
     "name": "wangmiao",

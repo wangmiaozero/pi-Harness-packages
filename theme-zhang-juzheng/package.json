@@ -1,8 +1,8 @@
 {
   "name": "@piharness/theme-zhang-juzheng",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
-  "description": "Official Pi-Harness Zhang Juzheng theme pack",
+  "description": "张居正主题：深色界面，雪中红墙宫城背景和张居正人物立绘，配书法卷轴、雪中横幅标题栏和古风装饰。 / Zhang Juzheng theme: a dark workspace with a snowy red-walled palace, a Zhang Juzheng portrait, calligraphy scrolls, a snowy title banner, and Ming-style decorations.",
   "license": "MIT",
   "author": {
     "name": "wangmiao",

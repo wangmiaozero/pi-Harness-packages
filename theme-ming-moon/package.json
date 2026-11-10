@@ -1,8 +1,8 @@
 {
   "name": "@piharness/theme-ming-moon",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
-  "description": "Official Pi-Harness Ming Moon City theme pack",
+  "description": "明朝月城主题：深色界面，月夜古城、灯笼与红梅背景和月下少女立绘，配木质边框、羊皮纸和朱砂按钮等古风装饰。 / Ming Moon City theme: a dark workspace with a moonlit ancient city, lanterns and red plum blossoms, a moon maiden portrait, and Ming-style wood, parchment, and cinnabar decorations.",
   "license": "MIT",
   "author": {
     "name": "wangmiao",

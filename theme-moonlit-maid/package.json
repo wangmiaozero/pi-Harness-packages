@@ -1,8 +1,8 @@
 {
   "name": "@piharness/theme-moonlit-maid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
-  "description": "Official Pi-Harness Moonlit Maid theme pack",
+  "description": "月下女仆主题：浅色界面，女仆角色立绘，背景是月光下的茶室，柔和的紫色调。 / Moonlit Maid theme: a light workspace with a maid character in a moonlit tea room, in soft purple tones.",
   "license": "MIT",
   "author": {
     "name": "wangmiao",

@@ -1,8 +1,8 @@
 {
   "name": "@piharness/pet-rounded",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
-  "description": "Official Pi-Harness Rounded pet pack",
+  "description": "方圆桌面宠物：一块圆角方形的果冻，跟随 Pi 的工作状态做出不同动作和表演。体积很小。 / Rounded desktop pet: a rounded-square jelly that reacts to what Pi is doing with live motion and short performances. Very small download.",
   "license": "MIT",
   "author": {
     "name": "wangmiao",

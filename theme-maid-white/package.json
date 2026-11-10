@@ -1,8 +1,8 @@
 {
   "name": "@piharness/theme-maid-white",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
-  "description": "Official Pi-Harness Maid White theme pack",
+  "description": "白色女仆主题：浅色界面，蓝白女仆角色立绘，背景是明亮的甜点工坊。 / Maid White theme: a light workspace with a blue-and-white maid portrait in front of a bright pastry atelier.",
   "license": "MIT",
   "author": {
     "name": "wangmiao",

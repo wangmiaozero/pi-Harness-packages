@@ -1,8 +1,8 @@
 {
   "name": "@piharness/pet-bigfish-14",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
-  "description": "BigFish actions: 吃重阳糕、吃粽子、抽陀螺、穿针乞巧、吹笛子、吹气球、打瞌睡被惊醒、大口吃零食、荡秋千、点击回应-傲娇生气",
+  "description": "大肥鱼动作包 14：给大肥鱼桌宠添加 10 个新动作——吃重阳糕、吃粽子、抽陀螺、穿针乞巧、吹笛子、吹气球、打瞌睡被惊醒、大口吃零食、荡秋千、点击回应-傲娇生气。需要先安装大肥鱼（pet-bigfish）。 / BigFish action pack 14: adds 10 new actions to the BigFish pet, including festival foods, spinning tops, flutes, balloons, swings, and click reactions. Requires the BigFish pet (pet-bigfish).",
   "license": "MIT",
   "author": {
     "name": "wangmiao",

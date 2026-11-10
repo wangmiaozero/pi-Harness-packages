@@ -1,8 +1,8 @@
 {
   "name": "@piharness/theme-gpt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
-  "description": "Official Pi-Harness GPT theme pack",
+  "description": "GPT 角色主题：深色界面配 GPT 风格的角色立绘，银白强调色，附带开场动画和角色语音。 / GPT character theme: a dark workspace with a GPT-styled character portrait, silver accents, and a startup animation with voice lines.",
   "license": "MIT",
   "author": {
     "name": "wangmiao",

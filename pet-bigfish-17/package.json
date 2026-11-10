@@ -1,8 +1,8 @@
 {
   "name": "@piharness/pet-bigfish-17",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
-  "description": "BigFish actions: 轻快记录、轻快摇摆舞、三球抛接、深度思考碎碎念、是啊，吃什么、收红包、涮火锅、碎碎念-擦桌碎碎念、碎碎念-对屏碎碎念、碎碎念-发呆碎碎念",
+  "description": "大肥鱼动作包 17：给大肥鱼桌宠添加 10 个新动作——轻快记录、轻快摇摆舞、三球抛接、深度思考碎碎念、是啊，吃什么、收红包、涮火锅、碎碎念-擦桌碎碎念、碎碎念-对屏碎碎念、碎碎念-发呆碎碎念。需要先安装大肥鱼（pet-bigfish）。 / BigFish action pack 17: adds 10 new actions to the BigFish pet, including dancing, juggling, mumbling to herself, red envelopes, and hot pot. Requires the BigFish pet (pet-bigfish).",
   "license": "MIT",
   "author": {
     "name": "wangmiao",

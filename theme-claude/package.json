@@ -1,8 +1,8 @@
 {
   "name": "@piharness/theme-claude",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
-  "description": "Official Pi-Harness Claude theme pack",
+  "description": "Claude 角色主题：深色界面配 Claude 风格的角色立绘，橙色强调色，附带开场动画和角色语音。 / Claude character theme: a dark workspace with a Claude-styled character portrait, orange accents, and a startup animation with voice lines.",
   "license": "MIT",
   "author": {
     "name": "wangmiao",

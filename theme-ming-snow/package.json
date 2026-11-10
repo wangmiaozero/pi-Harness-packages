@@ -1,8 +1,8 @@
 {
   "name": "@piharness/theme-ming-snow",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
-  "description": "Official Pi-Harness Ming Snow Palace theme pack",
+  "description": "明朝雪宫主题：深色界面，雪中宫殿背景和雪中少女立绘，配木质边框、羊皮纸和朱砂按钮等古风装饰。 / Ming Snow Palace theme: a dark workspace with a snowy palace and a snow maiden portrait, framed by Ming-style wood, parchment, and cinnabar decorations.",
   "license": "MIT",
   "author": {
     "name": "wangmiao",

@@ -1,8 +1,8 @@
 {
   "name": "@piharness/theme-starship",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
-  "description": "Official Pi-Harness Starship Cockpit theme pack",
+  "description": "星舰驾驶舱主题：深色界面，整个工作区被包在星舰驾驶舱框架里，深空背景、雷达和领航员角色，冰蓝色强调色。 / Starship Cockpit theme: a dark workspace framed by a starship cockpit, with a deep-space backdrop, radar, a navigator character, and ice-blue accents.",
   "license": "MIT",
   "author": {
     "name": "wangmiao",

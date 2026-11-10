@@ -1,8 +1,8 @@
 {
   "name": "@piharness/theme-deepseek",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
-  "description": "Official Pi-Harness DeepSeek theme pack",
+  "description": "DeepSeek 角色主题：一次包含 4 种外观（DeepSeek、DeepSeek Pro、工作模式海报壁纸、深梦壁纸），蓝色强调色，附带开场动画和角色语音。 / DeepSeek character theme with 4 looks (DeepSeek, DeepSeek Pro, a Work Mode poster wallpaper, and a Deep Dream wallpaper), blue accents, plus a startup animation with voice lines.",
   "license": "MIT",
   "author": {
     "name": "wangmiao",

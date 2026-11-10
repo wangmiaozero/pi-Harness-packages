@@ -1,8 +1,8 @@
 {
   "name": "@piharness/pet-bigfish-11",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
-  "description": "BigFish actions: 折一只纸鱼、整理便签、整理交付包、整理鲸鱼徽章、织一条鲸鱼围巾、值班鲸鱼盖章、纸飞机送信、纸花庆祝、纸鱼小船队、转椅半圈、追一颗泡泡",
+  "description": "大肥鱼动作包 11：给大肥鱼桌宠添加 11 个新动作——折一只纸鱼、整理便签、整理交付包、整理鲸鱼徽章、织一条鲸鱼围巾、值班鲸鱼盖章、纸飞机送信、纸花庆祝、纸鱼小船队、转椅半圈、追一颗泡泡。需要先安装大肥鱼（pet-bigfish）。 / BigFish action pack 11: adds 11 new actions to the BigFish pet, including paper fish, sticky notes, badges, paper planes, and bubbles. Requires the BigFish pet (pet-bigfish).",
   "license": "MIT",
   "author": {
     "name": "wangmiao",

@@ -1,8 +1,8 @@
 {
   "name": "@piharness/theme-office",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
-  "description": "Official Pi-Harness Office theme pack",
+  "description": "办公室主题：深色界面，职场角色立绘，背景是黄昏城市景观的高层办公室，暖金色强调色。 / Office theme: a dark workspace with an office-style character in a high-rise executive suite at dusk, with warm gold accents.",
   "license": "MIT",
   "author": {
     "name": "wangmiao",

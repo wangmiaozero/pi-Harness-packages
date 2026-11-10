@@ -1,8 +1,8 @@
 {
   "name": "@piharness/pet-bigfish",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
-  "description": "Official Pi-Harness BigFish pet. Action packs install separately.",
+  "description": "大肥鱼桌面宠物：鲸鱼尾巴女仆，在桌面上陪你写代码，会根据 Pi 的工作状态（思考、运行、成功、出错等）切换动作。这是基础包，更多动作可另装 pet-bigfish-2 到 pet-bigfish-20。 / BigFish desktop pet: a whale-tailed maid who keeps you company on the desktop and changes poses with what Pi is doing (thinking, running, success, error, and more). This is the base pack; more actions come in pet-bigfish-2 to pet-bigfish-20.",
   "license": "MIT",
   "author": {
     "name": "wangmiao",

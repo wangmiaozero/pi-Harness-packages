@@ -1,8 +1,8 @@
 {
   "name": "@piharness/theme-noir-scholar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
-  "description": "Official Pi-Harness Noir Scholar theme pack",
+  "description": "黑衣书生主题：深色界面，书卷气角色立绘，背景是昏暗的书房，古铜色强调色。 / Noir Scholar theme: a dark workspace with a scholarly character in a dim study, with bronze accents.",
   "license": "MIT",
   "author": {
     "name": "wangmiao",

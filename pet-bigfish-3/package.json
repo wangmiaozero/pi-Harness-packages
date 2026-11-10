@@ -1,8 +1,8 @@
 {
   "name": "@piharness/pet-bigfish-3",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
-  "description": "BigFish actions: 挥手招呼、回头看看、交替打字、开心摇尾、踉跄站稳、牌后探头、跑步赶进度、捧杯喝茶、伸懒腰、伸手示意",
+  "description": "大肥鱼动作包 3：给大肥鱼桌宠添加 10 个新动作——挥手招呼、回头看看、交替打字、开心摇尾、踉跄站稳、牌后探头、跑步赶进度、捧杯喝茶、伸懒腰、伸手示意。需要先安装大肥鱼（pet-bigfish）。 / BigFish action pack 3: adds 10 new actions to the BigFish pet, including greetings, typing, tea breaks, stretching, and hurrying along. Requires the BigFish pet (pet-bigfish).",
   "license": "MIT",
   "author": {
     "name": "wangmiao",

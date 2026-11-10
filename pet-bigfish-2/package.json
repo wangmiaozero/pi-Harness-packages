@@ -1,8 +1,8 @@
 {
   "name": "@piharness/pet-bigfish-2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
-  "description": "BigFish actions: 安静眨眼、抱尾打盹、抱尾举牌、抱尾撒娇、擦汗歇息、操作检查、侧躲探头、高高举牌、乖巧鞠躬、挥手跳跃鞠躬",
+  "description": "大肥鱼动作包 2：给大肥鱼桌宠添加 10 个新动作——安静眨眼、抱尾打盹、抱尾举牌、抱尾撒娇、擦汗歇息、操作检查、侧躲探头、高高举牌、乖巧鞠躬、挥手跳跃鞠躬。需要先安装大肥鱼（pet-bigfish）。 / BigFish action pack 2: adds 10 new actions to the BigFish pet, including calm idles, naps, sign holding, and bows. Requires the BigFish pet (pet-bigfish).",
   "license": "MIT",
   "author": {
     "name": "wangmiao",

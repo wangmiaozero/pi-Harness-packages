@@ -1,8 +1,8 @@
 {
   "name": "@piharness/theme-kimi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
-  "description": "Official Pi-Harness Kimi theme pack",
+  "description": "Kimi 角色主题：深色界面配 Kimi 风格的角色立绘，淡紫强调色，附带开场动画和角色语音。 / Kimi character theme: a dark workspace with a Kimi-styled character portrait, lavender accents, and a startup animation with voice lines.",
   "license": "MIT",
   "author": {
     "name": "wangmiao",
