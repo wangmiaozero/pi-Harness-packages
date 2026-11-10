@@ -1,0 +1,26 @@
+{
+  "name": "@piharness/pet-bigfish-20",
+  "version": "1.0.2",
+  "private": false,
+  "description": "BigFish actions: 原地蹲下玩玩具汽车、原地敲击桌面互动、原地跳跃抓碎头顶物品、原地小憩沉眠、原地重力下蹲压缩、原地专心玩魔方、照镜子、整体换装试色、中秋赏月吃月饼、装点圣诞树、左转奔跑",
+  "license": "MIT",
+  "author": {
+    "name": "wangmiao",
+    "email": "tuziling84@gmail.com",
+    "url": "https://github.com/wangmiaozero"
+  },
+  "files": [
+    "clip-pack.json",
+    "clips",
+    "LICENSE",
+    "README.md"
+  ],
+  "piHarness": {
+    "kind": "pet",
+    "compatible": ">=2.4.0",
+    "partOf": "@piharness/pet-bigfish"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

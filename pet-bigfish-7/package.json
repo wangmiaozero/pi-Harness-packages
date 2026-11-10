@@ -1,0 +1,26 @@
+{
+  "name": "@piharness/pet-bigfish-7",
+  "version": "1.0.2",
+  "private": false,
+  "description": "BigFish actions: 观察沙漏、荷叶小伞、画一张路线图、画一张小自画像、检查小接线、交付小礼物、浇一盆小水草、鲸鱼验收章、开心收工、看守小生态箱",
+  "license": "MIT",
+  "author": {
+    "name": "wangmiao",
+    "email": "tuziling84@gmail.com",
+    "url": "https://github.com/wangmiaozero"
+  },
+  "files": [
+    "clip-pack.json",
+    "clips",
+    "LICENSE",
+    "README.md"
+  ],
+  "piHarness": {
+    "kind": "pet",
+    "compatible": ">=2.4.0",
+    "partOf": "@piharness/pet-bigfish"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

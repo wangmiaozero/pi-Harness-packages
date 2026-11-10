@@ -1,0 +1,29 @@
+{
+  "formatVersion": 1,
+  "id": "noir-scholar",
+  "name": "Noir Scholar",
+  "version": "1.0.1",
+  "author": "wangmiao",
+  "description": "Official Pi-Harness Noir Scholar theme pack",
+  "license": "MIT",
+  "compatiblePiHarness": ">=2.4.0",
+  "preview": "preview.webp",
+  "variants": [
+    {
+      "id": "noirScholar",
+      "skinId": "noir-scholar",
+      "name": "Noir Study",
+      "appearance": "dark",
+      "portrait": true,
+      "accent": "#b18a50",
+      "frameWidth": 1024,
+      "frameHeight": 1536,
+      "portraitAsset": "assets/noir-scholar.png",
+      "startup": false,
+      "cssImages": {
+        "--market-scene-noir": "assets/noir-study.png",
+        "--market-preview-noir": "assets/noir-study.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "@piharness/pet-circle",
+  "version": "1.0.1",
+  "private": false,
+  "description": "Official Pi-Harness Circle pet pack",
+  "license": "MIT",
+  "author": {
+    "name": "wangmiao",
+    "email": "tuziling84@gmail.com",
+    "url": "https://github.com/wangmiaozero"
+  },
+  "files": [
+    "pet-pack.json",
+    "preview.webp",
+    "clips",
+    "assets",
+    "indesktop-motions.json",
+    "LICENSE",
+    "NOTICE",
+    "NOTICE.txt",
+    "README.md"
+  ],
+  "piHarness": {
+    "kind": "pet",
+    "compatible": ">=2.4.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

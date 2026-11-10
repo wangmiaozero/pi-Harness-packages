@@ -1,0 +1,89 @@
+{
+  "formatVersion": 1,
+  "id": "deepseek",
+  "name": "DeepSeek",
+  "version": "1.0.1",
+  "author": "wangmiao",
+  "description": "Official Pi-Harness DeepSeek theme pack",
+  "license": "MIT",
+  "compatiblePiHarness": ">=2.4.0",
+  "preview": "preview.webp",
+  "variants": [
+    {
+      "id": "ropeDeepseek",
+      "skinId": "rope-deepseek",
+      "name": "DeepSeek",
+      "appearance": "dark",
+      "portrait": true,
+      "accent": "#3aa0ff",
+      "frameWidth": 330,
+      "frameHeight": 384,
+      "portraitAsset": "assets/portraits/deepseek.png",
+      "startup": true
+    },
+    {
+      "id": "ropeWhale",
+      "skinId": "rope-whale",
+      "name": "DeepSeek Pro",
+      "appearance": "dark",
+      "portrait": true,
+      "accent": "#2f6fe0",
+      "frameWidth": 384,
+      "frameHeight": 576,
+      "portraitAsset": "assets/portraits/whale.png",
+      "startup": true
+    },
+    {
+      "id": "deepseekPoster",
+      "skinId": "deepseek-poster",
+      "name": "DeepSeek Work Mode",
+      "appearance": "dark",
+      "portrait": true,
+      "accent": "#3aa0ff",
+      "frameWidth": 1920,
+      "frameHeight": 1080,
+      "portraitAsset": "assets/wallpapers/default-background.jpg",
+      "startup": true,
+      "cssImages": {
+        "--market-scene-deepseek-poster": "assets/wallpapers/default-background.jpg",
+        "--market-preview-deepseek-poster": "assets/wallpapers/default-background.jpg"
+      }
+    },
+    {
+      "id": "deepseekDream",
+      "skinId": "deepseek-dream",
+      "name": "DeepSeek Deep Dream",
+      "appearance": "dark",
+      "portrait": true,
+      "accent": "#3aa0ff",
+      "frameWidth": 1290,
+      "frameHeight": 725,
+      "portraitAsset": "assets/wallpapers/wallpaper.png",
+      "startup": true,
+      "cssImages": {
+        "--market-scene-deepseek-dream": "assets/wallpapers/wallpaper.png",
+        "--market-preview-deepseek-dream": "assets/wallpapers/wallpaper.png"
+      }
+    }
+  ],
+  "startup": {
+    "background": "assets/startup/background.mp4",
+    "boot": "assets/startup/boot.mp4",
+    "whale-girl-scan": "assets/startup/whale-girl-scan.mp4",
+    "line-1": "assets/startup/line-1.mp3",
+    "line-2": "assets/startup/line-2.mp3",
+    "line-3": "assets/startup/line-3.mp3",
+    "line-4": "assets/startup/line-4.mp3",
+    "line-5": "assets/startup/line-5.mp3",
+    "line-6": "assets/startup/line-6.mp3",
+    "line-6-claude": "assets/startup/line-6-claude.mp3",
+    "line-6-gemini": "assets/startup/line-6-gemini.mp3",
+    "line-6-gpt": "assets/startup/line-6-gpt.mp3",
+    "line-6-glm": "assets/startup/line-6-glm.mp3",
+    "line-6-grok": "assets/startup/line-6-grok.mp3",
+    "line-6-kimi": "assets/startup/line-6-kimi.mp3",
+    "line-6-qwen": "assets/startup/line-6-qwen.mp3",
+    "sfx-tick": "assets/startup/sfx-tick.mp3",
+    "sfx-ticks-run": "assets/startup/sfx-ticks-run.mp3"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "formatVersion": 1,
+  "clips": {
+    "playful-attention-bell": {
+      "dir": "clips/playful-attention-bell",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "轻摆提示铃",
+        "en-US": "Attention bell"
+      },
+      "group": "outcome"
+    },
+    "playful-retry-reset": {
+      "dir": "clips/playful-retry-reset",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "清理后再试",
+        "en-US": "Retry reset"
+      },
+      "group": "outcome"
+    },
+    "playful-windup-whale": {
+      "dir": "clips/playful-windup-whale",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "上发条小鲸鱼",
+        "en-US": "Windup whale"
+      },
+      "group": "easter"
+    },
+    "playful-near-miss-determined": {
+      "dir": "clips/playful-near-miss-determined",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        140,
+        180,
+        220,
+        220,
+        180,
+        220
+      ],
+      "labels": {
+        "zh-CN": "深吸气再开工",
+        "en-US": "Near miss determined"
+      },
+      "group": "reaction"
+    },
+    "playful-read-books-sort": {
+      "dir": "clips/playful-read-books-sort",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "书堆找答案",
+        "en-US": "Read books sort"
+      },
+      "group": "work"
+    },
+    "playful-tail-comb": {
+      "dir": "clips/playful-tail-comb",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "梳梳尾巴边",
+        "en-US": "Tail comb"
+      },
+      "group": "daily"
+    },
+    "playful-thinking-abacus": {
+      "dir": "clips/playful-thinking-abacus",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "算盘推演",
+        "en-US": "Thinking abacus"
+      },
+      "group": "work"
+    },
+    "playful-easter-shell-listen": {
+      "dir": "clips/playful-easter-shell-listen",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "听听贝壳",
+        "en-US": "Easter shell listen"
+      },
+      "group": "daily"
+    },
+    "playful-typing-sleeves": {
+      "dir": "clips/playful-typing-sleeves",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "挽袖开工",
+        "en-US": "Typing sleeves"
+      },
+      "group": "work"
+    },
+    "playful-web-telescope": {
+      "dir": "clips/playful-web-telescope",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "望远镜看网页",
+        "en-US": "Web telescope"
+      },
+      "group": "tools"
+    }
+  }
+}

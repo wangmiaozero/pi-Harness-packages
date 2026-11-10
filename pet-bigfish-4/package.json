@@ -1,0 +1,26 @@
+{
+  "name": "@piharness/pet-bigfish-4",
+  "version": "1.0.2",
+  "private": false,
+  "description": "BigFish actions: 手忙脚乱、缩肩反应、叹气放松、完成打勾、小碎步赶工、小跳摇牌、胸前举牌、阅读翻页、左右探头",
+  "license": "MIT",
+  "author": {
+    "name": "wangmiao",
+    "email": "tuziling84@gmail.com",
+    "url": "https://github.com/wangmiaozero"
+  },
+  "files": [
+    "clip-pack.json",
+    "clips",
+    "LICENSE",
+    "README.md"
+  ],
+  "piHarness": {
+    "kind": "pet",
+    "compatible": ">=2.4.0",
+    "partOf": "@piharness/pet-bigfish"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

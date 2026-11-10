@@ -1,0 +1,185 @@
+{
+  "formatVersion": 1,
+  "clips": {
+    "playful-thinking-sandglass": {
+      "dir": "clips/playful-thinking-sandglass",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "观察沙漏",
+        "en-US": "Thinking sandglass"
+      },
+      "group": "work"
+    },
+    "playful-leaf-umbrella": {
+      "dir": "clips/playful-leaf-umbrella",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "荷叶小伞",
+        "en-US": "Leaf umbrella"
+      },
+      "group": "daily"
+    },
+    "playful-thinking-flowchart": {
+      "dir": "clips/playful-thinking-flowchart",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "画一张路线图",
+        "en-US": "Thinking flowchart"
+      },
+      "group": "work"
+    },
+    "playful-easter-self-portrait": {
+      "dir": "clips/playful-easter-self-portrait",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "画一张小自画像",
+        "en-US": "Easter self portrait"
+      },
+      "group": "daily"
+    },
+    "playful-error-cable-check": {
+      "dir": "clips/playful-error-cable-check",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "检查小接线",
+        "en-US": "Error cable check"
+      },
+      "group": "outcome"
+    },
+    "playful-success-ribbon": {
+      "dir": "clips/playful-success-ribbon",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "交付小礼物",
+        "en-US": "Success ribbon"
+      },
+      "group": "outcome"
+    },
+    "playful-water-plant": {
+      "dir": "clips/playful-water-plant",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "浇一盆小水草",
+        "en-US": "Water plant"
+      },
+      "group": "daily"
+    },
+    "playful-success-whale-stamp": {
+      "dir": "clips/playful-success-whale-stamp",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "鲸鱼验收章",
+        "en-US": "Success whale stamp"
+      },
+      "group": "outcome"
+    },
+    "playful-success-desk-tidy": {
+      "dir": "clips/playful-success-desk-tidy",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "开心收工",
+        "en-US": "Success desk tidy"
+      },
+      "group": "outcome"
+    },
+    "playful-background-terrarium": {
+      "dir": "clips/playful-background-terrarium",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "看守小生态箱",
+        "en-US": "Background terrarium"
+      },
+      "group": "tools"
+    }
+  }
+}

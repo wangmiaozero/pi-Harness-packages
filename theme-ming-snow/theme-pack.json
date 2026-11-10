@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "id": "ming-snow",
+  "name": "Ming Snow Palace",
+  "version": "1.0.1",
+  "author": "wangmiao",
+  "description": "Official Pi-Harness Ming Snow Palace theme pack",
+  "license": "MIT",
+  "compatiblePiHarness": ">=2.4.0",
+  "preview": "preview.webp",
+  "variants": [
+    {
+      "id": "mingSnow",
+      "skinId": "ming-snow",
+      "name": "Ming Snow Palace",
+      "appearance": "dark",
+      "portrait": true,
+      "accent": "#bd8b52",
+      "frameWidth": 1024,
+      "frameHeight": 1536,
+      "portraitAsset": "assets/snow-maiden.png",
+      "startup": false,
+      "cssImages": {
+        "--market-scene-ming-snow": "assets/snow-palace.png",
+        "--market-preview-ming-snow": "assets/snow-palace.png",
+        "--market-ming-panel-frame": "assets/panel-frame.png",
+        "--market-ming-frame-rail": "assets/frame-rail-v2.png",
+        "--market-ming-button-wood": "assets/button-wood-v2.png",
+        "--market-ming-button-parchment": "assets/button-parchment-v2.png",
+        "--market-ming-button-cinnabar": "assets/button-cinnabar-v2.png"
+      }
+    }
+  ]
+}

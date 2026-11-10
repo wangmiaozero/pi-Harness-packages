@@ -1,0 +1,35 @@
+{
+  "formatVersion": 1,
+  "id": "zhang-juzheng",
+  "name": "Zhang Juzheng",
+  "version": "1.0.1",
+  "author": "wangmiao",
+  "description": "Official Pi-Harness Zhang Juzheng theme pack",
+  "license": "MIT",
+  "compatiblePiHarness": ">=2.4.0",
+  "preview": "preview.webp",
+  "variants": [
+    {
+      "id": "zhangJuzhengSnow",
+      "skinId": "zhang-juzheng-snow",
+      "name": "Zhang Juzheng",
+      "appearance": "dark",
+      "portrait": true,
+      "accent": "#9e1b1b",
+      "frameWidth": 1024,
+      "frameHeight": 1536,
+      "portraitAsset": "assets/zhang-juzheng.png",
+      "startup": false,
+      "cssImages": {
+        "--market-scene-zhang": "assets/snow-red-palace.png",
+        "--market-preview-zhang": "assets/snow-red-palace.png",
+        "--market-zhang-titlebar-banner": "assets/titlebar-snow-banner.png",
+        "--market-ming-panel-frame": "assets/panel-frame.png",
+        "--market-ming-frame-rail": "assets/frame-rail-v2.png",
+        "--market-ming-button-wood": "assets/button-wood-v2.png",
+        "--market-ming-button-parchment": "assets/button-parchment-v2.png",
+        "--market-ming-button-cinnabar": "assets/button-cinnabar-v2.png"
+      }
+    }
+  ]
+}

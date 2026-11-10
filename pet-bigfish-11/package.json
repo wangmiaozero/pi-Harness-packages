@@ -1,0 +1,26 @@
+{
+  "name": "@piharness/pet-bigfish-11",
+  "version": "1.0.2",
+  "private": false,
+  "description": "BigFish actions: 折一只纸鱼、整理便签、整理交付包、整理鲸鱼徽章、织一条鲸鱼围巾、值班鲸鱼盖章、纸飞机送信、纸花庆祝、纸鱼小船队、转椅半圈、追一颗泡泡",
+  "license": "MIT",
+  "author": {
+    "name": "wangmiao",
+    "email": "tuziling84@gmail.com",
+    "url": "https://github.com/wangmiaozero"
+  },
+  "files": [
+    "clip-pack.json",
+    "clips",
+    "LICENSE",
+    "README.md"
+  ],
+  "piHarness": {
+    "kind": "pet",
+    "compatible": ">=2.4.0",
+    "partOf": "@piharness/pet-bigfish"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

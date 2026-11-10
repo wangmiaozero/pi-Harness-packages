@@ -1,0 +1,27 @@
+{
+  "name": "@piharness/theme-kimi",
+  "version": "1.0.1",
+  "private": false,
+  "description": "Official Pi-Harness Kimi theme pack",
+  "license": "MIT",
+  "author": {
+    "name": "wangmiao",
+    "email": "tuziling84@gmail.com",
+    "url": "https://github.com/wangmiaozero"
+  },
+  "files": [
+    "theme-pack.json",
+    "preview.webp",
+    "assets",
+    "LICENSE",
+    "NOTICE",
+    "README.md"
+  ],
+  "piHarness": {
+    "kind": "theme",
+    "compatible": ">=2.4.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

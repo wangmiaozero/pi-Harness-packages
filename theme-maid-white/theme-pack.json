@@ -1,0 +1,29 @@
+{
+  "formatVersion": 1,
+  "id": "maid-white",
+  "name": "Maid White",
+  "version": "1.0.1",
+  "author": "wangmiao",
+  "description": "Official Pi-Harness Maid White theme pack",
+  "license": "MIT",
+  "compatiblePiHarness": ">=2.4.0",
+  "preview": "preview.webp",
+  "variants": [
+    {
+      "id": "maidWhite",
+      "skinId": "maid-white",
+      "name": "Maid Style",
+      "appearance": "light",
+      "portrait": true,
+      "accent": "#3868bd",
+      "frameWidth": 1024,
+      "frameHeight": 1536,
+      "portraitAsset": "assets/pico-maid-white.png",
+      "startup": false,
+      "cssImages": {
+        "--market-scene-maid-white": "assets/azure-patisserie-atelier-v2.png",
+        "--market-preview-maid-white": "assets/azure-patisserie-atelier-v2.png"
+      }
+    }
+  ]
+}

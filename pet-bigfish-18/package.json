@@ -1,0 +1,26 @@
+{
+  "name": "@piharness/pet-bigfish-18",
+  "version": "1.0.2",
+  "private": false,
+  "description": "BigFish actions: 讨糖南瓜灯、踢毽子、偷吃零食被抓住、玩水枪、玩游戏气急败坏、舞狮头、下五子棋、小幅度原地360度旋转展示、小提琴演奏、写代码",
+  "license": "MIT",
+  "author": {
+    "name": "wangmiao",
+    "email": "tuziling84@gmail.com",
+    "url": "https://github.com/wangmiaozero"
+  },
+  "files": [
+    "clip-pack.json",
+    "clips",
+    "LICENSE",
+    "README.md"
+  ],
+  "piHarness": {
+    "kind": "pet",
+    "compatible": ">=2.4.0",
+    "partOf": "@piharness/pet-bigfish"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "formatVersion": 1,
+  "clips": {
+    "playful-attention-choice": {
+      "dir": "clips/playful-attention-choice",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "把选择递给你",
+        "en-US": "Attention choice"
+      },
+      "group": "outcome"
+    },
+    "playful-shell-juggle": {
+      "dir": "clips/playful-shell-juggle",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "贝壳小把戏",
+        "en-US": "Shell juggle"
+      },
+      "group": "easter"
+    },
+    "playful-typing-notes": {
+      "dir": "clips/playful-typing-notes",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "便签打字",
+        "en-US": "Typing notes"
+      },
+      "group": "work"
+    },
+    "playful-retry-eraser": {
+      "dir": "clips/playful-retry-eraser",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "擦掉重画",
+        "en-US": "Retry eraser"
+      },
+      "group": "outcome"
+    },
+    "playful-sign-chalkboard": {
+      "dir": "clips/playful-sign-chalkboard",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "擦干净再举牌",
+        "en-US": "Sign chalkboard"
+      },
+      "group": "sign"
+    },
+    "playful-tail-polish": {
+      "dir": "clips/playful-tail-polish",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "擦亮尾巴",
+        "en-US": "Tail polish"
+      },
+      "group": "daily"
+    },
+    "playful-thinking-scratchpad": {
+      "dir": "clips/playful-thinking-scratchpad",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "草稿演算",
+        "en-US": "Thinking scratchpad"
+      },
+      "group": "work"
+    },
+    "playful-test-checklist": {
+      "dir": "clips/playful-test-checklist",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "测试巡检",
+        "en-US": "Test checklist"
+      },
+      "group": "tools"
+    },
+    "playful-thinking-gears": {
+      "dir": "clips/playful-thinking-gears",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "齿轮咔哒转",
+        "en-US": "Thinking gears"
+      },
+      "group": "work"
+    },
+    "playful-export-suitcase": {
+      "dir": "clips/playful-export-suitcase",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "打包小行李箱",
+        "en-US": "Export suitcase"
+      },
+      "group": "tools"
+    }
+  }
+}

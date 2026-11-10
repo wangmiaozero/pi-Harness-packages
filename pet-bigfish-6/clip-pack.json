@@ -1,0 +1,185 @@
+{
+  "formatVersion": 1,
+  "clips": {
+    "playful-error-inspect": {
+      "dir": "clips/playful-error-inspect",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "戴眼镜排查",
+        "en-US": "Error inspect"
+      },
+      "group": "outcome"
+    },
+    "playful-sign-pop-up": {
+      "dir": "clips/playful-sign-pop-up",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "弹出式请帖",
+        "en-US": "Sign pop up"
+      },
+      "group": "sign"
+    },
+    "playful-attention-envelope": {
+      "dir": "clips/playful-attention-envelope",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "递来确认信",
+        "en-US": "Attention envelope"
+      },
+      "group": "outcome"
+    },
+    "playful-image-palette": {
+      "dir": "clips/playful-image-palette",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "调色画画",
+        "en-US": "Image palette"
+      },
+      "group": "tools"
+    },
+    "playful-parallel-trays": {
+      "dir": "clips/playful-parallel-trays",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "多任务分篮",
+        "en-US": "Parallel trays"
+      },
+      "group": "tools"
+    },
+    "playful-sign-calendar": {
+      "dir": "clips/playful-sign-calendar",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "翻到等你这一页",
+        "en-US": "Sign calendar"
+      },
+      "group": "sign"
+    },
+    "playful-search-magnifier": {
+      "dir": "clips/playful-search-magnifier",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "放大镜找线索",
+        "en-US": "Search magnifier"
+      },
+      "group": "tools"
+    },
+    "playful-biscuit-share": {
+      "dir": "clips/playful-biscuit-share",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "分你半块饼干",
+        "en-US": "Biscuit share"
+      },
+      "group": "daily"
+    },
+    "playful-near-miss-glasses": {
+      "dir": "clips/playful-near-miss-glasses",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        140,
+        180,
+        220,
+        220,
+        180,
+        220
+      ],
+      "labels": {
+        "zh-CN": "扶好眼镜再写",
+        "en-US": "Near miss glasses"
+      },
+      "group": "reaction"
+    },
+    "playful-pillow-nest": {
+      "dir": "clips/playful-pillow-nest",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "给尾巴铺小窝",
+        "en-US": "Pillow nest"
+      },
+      "group": "daily"
+    }
+  }
+}

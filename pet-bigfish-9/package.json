@@ -1,0 +1,26 @@
+{
+  "name": "@piharness/pet-bigfish-9",
+  "version": "1.0.2",
+  "private": false,
+  "description": "BigFish actions: 轻摆提示铃、清理后再试、上发条小鲸鱼、深吸气再开工、书堆找答案、梳梳尾巴边、算盘推演、听听贝壳、挽袖开工、望远镜看网页",
+  "license": "MIT",
+  "author": {
+    "name": "wangmiao",
+    "email": "tuziling84@gmail.com",
+    "url": "https://github.com/wangmiaozero"
+  },
+  "files": [
+    "clip-pack.json",
+    "clips",
+    "LICENSE",
+    "README.md"
+  ],
+  "piHarness": {
+    "kind": "pet",
+    "compatible": ">=2.4.0",
+    "partOf": "@piharness/pet-bigfish"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

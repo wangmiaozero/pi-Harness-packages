@@ -1,0 +1,26 @@
+{
+  "name": "@piharness/pet-bigfish-5",
+  "version": "1.0.2",
+  "private": false,
+  "description": "BigFish actions: 把选择递给你、贝壳小把戏、便签打字、擦掉重画、擦干净再举牌、擦亮尾巴、草稿演算、测试巡检、齿轮咔哒转、打包小行李箱",
+  "license": "MIT",
+  "author": {
+    "name": "wangmiao",
+    "email": "tuziling84@gmail.com",
+    "url": "https://github.com/wangmiaozero"
+  },
+  "files": [
+    "clip-pack.json",
+    "clips",
+    "LICENSE",
+    "README.md"
+  ],
+  "piHarness": {
+    "kind": "pet",
+    "compatible": ">=2.4.0",
+    "partOf": "@piharness/pet-bigfish"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

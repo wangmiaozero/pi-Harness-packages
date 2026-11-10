@@ -1,0 +1,26 @@
+{
+  "name": "@piharness/pet-bigfish-2",
+  "version": "1.0.2",
+  "private": false,
+  "description": "BigFish actions: 安静眨眼、抱尾打盹、抱尾举牌、抱尾撒娇、擦汗歇息、操作检查、侧躲探头、高高举牌、乖巧鞠躬、挥手跳跃鞠躬",
+  "license": "MIT",
+  "author": {
+    "name": "wangmiao",
+    "email": "tuziling84@gmail.com",
+    "url": "https://github.com/wangmiaozero"
+  },
+  "files": [
+    "clip-pack.json",
+    "clips",
+    "LICENSE",
+    "README.md"
+  ],
+  "piHarness": {
+    "kind": "pet",
+    "compatible": ">=2.4.0",
+    "partOf": "@piharness/pet-bigfish"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

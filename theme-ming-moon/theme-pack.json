@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "id": "ming-moon",
+  "name": "Ming Moon City",
+  "version": "1.0.1",
+  "author": "wangmiao",
+  "description": "Official Pi-Harness Ming Moon City theme pack",
+  "license": "MIT",
+  "compatiblePiHarness": ">=2.4.0",
+  "preview": "preview.webp",
+  "variants": [
+    {
+      "id": "mingMoon",
+      "skinId": "ming-moon",
+      "name": "Ming Moon City",
+      "appearance": "dark",
+      "portrait": true,
+      "accent": "#b4493f",
+      "frameWidth": 1024,
+      "frameHeight": 1536,
+      "portraitAsset": "assets/moon-maiden.png",
+      "startup": false,
+      "cssImages": {
+        "--market-scene-ming-moon": "assets/moon-city.png",
+        "--market-preview-ming-moon": "assets/moon-city.png",
+        "--market-ming-panel-frame": "assets/panel-frame.png",
+        "--market-ming-frame-rail": "assets/frame-rail-v2.png",
+        "--market-ming-button-wood": "assets/button-wood-v2.png",
+        "--market-ming-button-parchment": "assets/button-parchment-v2.png",
+        "--market-ming-button-cinnabar": "assets/button-cinnabar-v2.png"
+      }
+    }
+  ]
+}

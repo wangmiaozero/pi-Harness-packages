@@ -1,0 +1,45 @@
+{
+  "formatVersion": 1,
+  "id": "gpt",
+  "name": "GPT",
+  "version": "1.0.1",
+  "author": "wangmiao",
+  "description": "Official Pi-Harness GPT theme pack",
+  "license": "MIT",
+  "compatiblePiHarness": ">=2.4.0",
+  "preview": "preview.webp",
+  "variants": [
+    {
+      "id": "ropeGpt",
+      "skinId": "rope-gpt",
+      "name": "GPT",
+      "appearance": "dark",
+      "portrait": true,
+      "accent": "#d7dde8",
+      "frameWidth": 320,
+      "frameHeight": 384,
+      "portraitAsset": "assets/gpt.png",
+      "startup": true
+    }
+  ],
+  "startup": {
+    "background": "assets/startup/background.mp4",
+    "boot": "assets/startup/boot.mp4",
+    "whale-girl-scan": "assets/startup/whale-girl-scan.mp4",
+    "line-1": "assets/startup/line-1.mp3",
+    "line-2": "assets/startup/line-2.mp3",
+    "line-3": "assets/startup/line-3.mp3",
+    "line-4": "assets/startup/line-4.mp3",
+    "line-5": "assets/startup/line-5.mp3",
+    "line-6": "assets/startup/line-6.mp3",
+    "line-6-claude": "assets/startup/line-6-claude.mp3",
+    "line-6-gemini": "assets/startup/line-6-gemini.mp3",
+    "line-6-gpt": "assets/startup/line-6-gpt.mp3",
+    "line-6-glm": "assets/startup/line-6-glm.mp3",
+    "line-6-grok": "assets/startup/line-6-grok.mp3",
+    "line-6-kimi": "assets/startup/line-6-kimi.mp3",
+    "line-6-qwen": "assets/startup/line-6-qwen.mp3",
+    "sfx-tick": "assets/startup/sfx-tick.mp3",
+    "sfx-ticks-run": "assets/startup/sfx-ticks-run.mp3"
+  }
+}

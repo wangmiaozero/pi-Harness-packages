@@ -1,0 +1,98 @@
+{
+  "formatVersion": 1,
+  "id": "bigfish",
+  "name": "大肥鱼",
+  "nameEn": "BigFish",
+  "description": "Whaletail-maid desktop companion with classic poses, playful motions and animated everyday scenes.",
+  "author": "wangmiao",
+  "version": "1.1.0",
+  "license": "MIT",
+  "licenseFiles": [
+    "LICENSE"
+  ],
+  "baseWidth": 412,
+  "baseHeight": 344,
+  "fps": 24,
+  "clips": {
+    "idle": {
+      "dir": "clips/idle",
+      "frames": 241,
+      "loop": true
+    },
+    "idle_stretch": {
+      "dir": "clips/idle_stretch",
+      "frames": 241,
+      "loop": true
+    },
+    "idle_yawn": {
+      "dir": "clips/idle_yawn",
+      "frames": 241,
+      "loop": true
+    },
+    "thinking": {
+      "dir": "clips/thinking",
+      "frames": 241,
+      "loop": true
+    },
+    "working": {
+      "dir": "clips/working",
+      "frames": 241,
+      "loop": true
+    },
+    "working_search": {
+      "dir": "clips/working_search",
+      "frames": 241,
+      "loop": true
+    },
+    "working_command": {
+      "dir": "clips/working_command",
+      "frames": 241,
+      "loop": true
+    },
+    "waiting": {
+      "dir": "clips/waiting",
+      "frames": 241,
+      "loop": true
+    },
+    "success": {
+      "dir": "clips/success",
+      "frames": 241,
+      "loop": false
+    },
+    "error": {
+      "dir": "clips/error",
+      "frames": 118,
+      "loop": false
+    },
+    "dragging": {
+      "dir": "clips/dragging",
+      "frames": 144,
+      "loop": true
+    },
+    "dragging_release": {
+      "dir": "clips/dragging_release",
+      "frames": 49,
+      "loop": false
+    },
+    "head_pat": {
+      "dir": "clips/head_pat",
+      "frames": 241,
+      "loop": true
+    },
+    "poke": {
+      "dir": "clips/poke",
+      "frames": 241,
+      "loop": true
+    },
+    "tail": {
+      "dir": "clips/tail",
+      "frames": 241,
+      "loop": true
+    },
+    "eat_token": {
+      "dir": "clips/eat_token",
+      "frames": 241,
+      "loop": true
+    }
+  }
+}

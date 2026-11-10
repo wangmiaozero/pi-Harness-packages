@@ -1,0 +1,29 @@
+{
+  "formatVersion": 1,
+  "id": "office",
+  "name": "Office",
+  "version": "1.0.1",
+  "author": "wangmiao",
+  "description": "Official Pi-Harness Office theme pack",
+  "license": "MIT",
+  "compatiblePiHarness": ">=2.4.0",
+  "preview": "preview.webp",
+  "variants": [
+    {
+      "id": "office",
+      "skinId": "office-executive",
+      "name": "Office Style",
+      "appearance": "dark",
+      "portrait": true,
+      "accent": "#c5a176",
+      "frameWidth": 1024,
+      "frameHeight": 1536,
+      "portraitAsset": "assets/pico-office.png",
+      "startup": false,
+      "cssImages": {
+        "--market-scene-office": "assets/dusk-executive-suite-v2.png",
+        "--market-preview-office": "assets/dusk-executive-suite-v2.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "formatVersion": 1,
+  "id": "starship",
+  "name": "Starship Cockpit",
+  "version": "1.0.1",
+  "author": "wangmiao",
+  "description": "Official Pi-Harness Starship Cockpit theme pack",
+  "license": "MIT",
+  "compatiblePiHarness": ">=2.4.0",
+  "preview": "preview.webp",
+  "variants": [
+    {
+      "id": "starshipCockpit",
+      "skinId": "starship-cockpit",
+      "name": "Starship Cockpit",
+      "appearance": "dark",
+      "portrait": true,
+      "accent": "#67d8ff",
+      "frameWidth": 941,
+      "frameHeight": 1672,
+      "portraitAsset": "assets/frost-navigator.png",
+      "startup": false,
+      "cssImages": {
+        "--market-starship-interior": "assets/cockpit-interior-foreground.png",
+        "--market-preview-starship": "assets/deep-space.png"
+      }
+    }
+  ]
+}

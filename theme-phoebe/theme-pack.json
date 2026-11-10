@@ -1,0 +1,25 @@
+{
+  "formatVersion": 1,
+  "id": "phoebe",
+  "name": "Phoebe",
+  "version": "1.0.1",
+  "author": "wangmiao",
+  "description": "Official Pi-Harness Phoebe theme pack",
+  "license": "MIT",
+  "compatiblePiHarness": ">=2.4.0",
+  "preview": "preview.webp",
+  "variants": [
+    {
+      "id": "ropePhoebe",
+      "skinId": "rope-phoebe",
+      "name": "Phoebe",
+      "appearance": "dark",
+      "portrait": true,
+      "accent": "#f0c14a",
+      "frameWidth": 283,
+      "frameHeight": 384,
+      "portraitAsset": "assets/phoebe.png",
+      "startup": false
+    }
+  ]
+}

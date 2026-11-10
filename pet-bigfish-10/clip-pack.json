@@ -1,0 +1,203 @@
+{
+  "formatVersion": 1,
+  "clips": {
+    "playful-typing-tail-rhythm": {
+      "dir": "clips/playful-typing-tail-rhythm",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "尾巴打拍子",
+        "en-US": "Typing tail rhythm"
+      },
+      "group": "work"
+    },
+    "playful-sign-tail-stand": {
+      "dir": "clips/playful-sign-tail-stand",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "尾巴当支架",
+        "en-US": "Sign tail stand"
+      },
+      "group": "sign"
+    },
+    "playful-near-miss-tail-hide": {
+      "dir": "clips/playful-near-miss-tail-hide",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        140,
+        180,
+        220,
+        220,
+        180,
+        220
+      ],
+      "labels": {
+        "zh-CN": "尾巴先收好",
+        "en-US": "Near miss tail hide"
+      },
+      "group": "reaction"
+    },
+    "playful-near-miss-protect-tea": {
+      "dir": "clips/playful-near-miss-protect-tea",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        140,
+        180,
+        220,
+        220,
+        180,
+        220
+      ],
+      "labels": {
+        "zh-CN": "先保住茶杯",
+        "en-US": "Near miss protect tea"
+      },
+      "group": "reaction"
+    },
+    "playful-agent-director": {
+      "dir": "clips/playful-agent-director",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "小导演带队",
+        "en-US": "Agent director"
+      },
+      "group": "tools"
+    },
+    "playful-easter-badge-salute": {
+      "dir": "clips/playful-easter-badge-salute",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "小鲸鱼敬礼",
+        "en-US": "Easter badge salute"
+      },
+      "group": "easter"
+    },
+    "playful-sign-curtain": {
+      "dir": "clips/playful-sign-curtain",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "小幕布揭牌",
+        "en-US": "Sign curtain"
+      },
+      "group": "sign"
+    },
+    "playful-read-bookmark": {
+      "dir": "clips/playful-read-bookmark",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "阅读夹书签",
+        "en-US": "Read bookmark"
+      },
+      "group": "tools"
+    },
+    "playful-near-miss-startle": {
+      "dir": "clips/playful-near-miss-startle",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        140,
+        180,
+        220,
+        220,
+        180,
+        220
+      ],
+      "labels": {
+        "zh-CN": "眨眼稳住节奏",
+        "en-US": "Near miss startle"
+      },
+      "group": "reaction"
+    },
+    "playful-writing-ink": {
+      "dir": "clips/playful-writing-ink",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "蘸墨写草稿",
+        "en-US": "Writing ink"
+      },
+      "group": "work"
+    },
+    "playful-sign-origami": {
+      "dir": "clips/playful-sign-origami",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "折叠小横幅",
+        "en-US": "Sign origami"
+      },
+      "group": "sign"
+    }
+  }
+}

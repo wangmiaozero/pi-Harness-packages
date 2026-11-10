@@ -1,0 +1,26 @@
+{
+  "name": "@piharness/pet-bigfish-13",
+  "version": "1.0.2",
+  "private": false,
+  "description": "BigFish actions: 吃腊八粥、吃年糕、吃青团、吃汤圆、吃糖葫芦、吃晚餐、吃午餐、吃西瓜、吃早餐、吃长寿面",
+  "license": "MIT",
+  "author": {
+    "name": "wangmiao",
+    "email": "tuziling84@gmail.com",
+    "url": "https://github.com/wangmiaozero"
+  },
+  "files": [
+    "clip-pack.json",
+    "clips",
+    "LICENSE",
+    "README.md"
+  ],
+  "piHarness": {
+    "kind": "pet",
+    "compatible": ">=2.4.0",
+    "partOf": "@piharness/pet-bigfish"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

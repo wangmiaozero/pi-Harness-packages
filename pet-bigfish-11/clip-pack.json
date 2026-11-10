@@ -1,0 +1,203 @@
+{
+  "formatVersion": 1,
+  "clips": {
+    "playful-paper-fish": {
+      "dir": "clips/playful-paper-fish",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "折一只纸鱼",
+        "en-US": "Paper fish"
+      },
+      "group": "daily"
+    },
+    "playful-notes-sort": {
+      "dir": "clips/playful-notes-sort",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "整理便签",
+        "en-US": "Notes sort"
+      },
+      "group": "work"
+    },
+    "playful-export-parcel": {
+      "dir": "clips/playful-export-parcel",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "整理交付包",
+        "en-US": "Export parcel"
+      },
+      "group": "tools"
+    },
+    "playful-badge-care": {
+      "dir": "clips/playful-badge-care",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "整理鲸鱼徽章",
+        "en-US": "Badge care"
+      },
+      "group": "daily"
+    },
+    "playful-knit-scarf": {
+      "dir": "clips/playful-knit-scarf",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "织一条鲸鱼围巾",
+        "en-US": "Knit scarf"
+      },
+      "group": "daily"
+    },
+    "playful-sign-stamp": {
+      "dir": "clips/playful-sign-stamp",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "值班鲸鱼盖章",
+        "en-US": "Sign stamp"
+      },
+      "group": "sign"
+    },
+    "playful-sign-paper-plane": {
+      "dir": "clips/playful-sign-paper-plane",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "纸飞机送信",
+        "en-US": "Sign paper plane"
+      },
+      "group": "sign"
+    },
+    "playful-success-paper-confetti": {
+      "dir": "clips/playful-success-paper-confetti",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "纸花庆祝",
+        "en-US": "Success paper confetti"
+      },
+      "group": "outcome"
+    },
+    "playful-easter-paper-fleet": {
+      "dir": "clips/playful-easter-paper-fleet",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "纸鱼小船队",
+        "en-US": "Easter paper fleet"
+      },
+      "group": "easter"
+    },
+    "playful-easter-chair-spin": {
+      "dir": "clips/playful-easter-chair-spin",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "转椅半圈",
+        "en-US": "Easter chair spin"
+      },
+      "group": "easter"
+    },
+    "playful-bubble-chase": {
+      "dir": "clips/playful-bubble-chase",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "追一颗泡泡",
+        "en-US": "Bubble chase"
+      },
+      "group": "daily"
+    }
+  }
+}

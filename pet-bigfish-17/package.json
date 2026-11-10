@@ -1,0 +1,26 @@
+{
+  "name": "@piharness/pet-bigfish-17",
+  "version": "1.0.2",
+  "private": false,
+  "description": "BigFish actions: 轻快记录、轻快摇摆舞、三球抛接、深度思考碎碎念、是啊，吃什么、收红包、涮火锅、碎碎念-擦桌碎碎念、碎碎念-对屏碎碎念、碎碎念-发呆碎碎念",
+  "license": "MIT",
+  "author": {
+    "name": "wangmiao",
+    "email": "tuziling84@gmail.com",
+    "url": "https://github.com/wangmiaozero"
+  },
+  "files": [
+    "clip-pack.json",
+    "clips",
+    "LICENSE",
+    "README.md"
+  ],
+  "piHarness": {
+    "kind": "pet",
+    "compatible": ">=2.4.0",
+    "partOf": "@piharness/pet-bigfish"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

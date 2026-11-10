@@ -1,0 +1,29 @@
+{
+  "formatVersion": 1,
+  "id": "moonlit-maid",
+  "name": "Moonlit Maid",
+  "version": "1.0.1",
+  "author": "wangmiao",
+  "description": "Official Pi-Harness Moonlit Maid theme pack",
+  "license": "MIT",
+  "compatiblePiHarness": ">=2.4.0",
+  "preview": "preview.webp",
+  "variants": [
+    {
+      "id": "moonlitMaid",
+      "skinId": "moonlit-maid",
+      "name": "Moonlit Salon",
+      "appearance": "light",
+      "portrait": true,
+      "accent": "#806284",
+      "frameWidth": 1024,
+      "frameHeight": 1536,
+      "portraitAsset": "assets/moonlit-maid.png",
+      "startup": false,
+      "cssImages": {
+        "--market-scene-moonlit": "assets/moonlit-tea-room.png",
+        "--market-preview-moonlit": "assets/moonlit-tea-room.png"
+      }
+    }
+  ]
+}

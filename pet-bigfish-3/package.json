@@ -1,0 +1,26 @@
+{
+  "name": "@piharness/pet-bigfish-3",
+  "version": "1.0.2",
+  "private": false,
+  "description": "BigFish actions: 挥手招呼、回头看看、交替打字、开心摇尾、踉跄站稳、牌后探头、跑步赶进度、捧杯喝茶、伸懒腰、伸手示意",
+  "license": "MIT",
+  "author": {
+    "name": "wangmiao",
+    "email": "tuziling84@gmail.com",
+    "url": "https://github.com/wangmiaozero"
+  },
+  "files": [
+    "clip-pack.json",
+    "clips",
+    "LICENSE",
+    "README.md"
+  ],
+  "piHarness": {
+    "kind": "pet",
+    "compatible": ">=2.4.0",
+    "partOf": "@piharness/pet-bigfish"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

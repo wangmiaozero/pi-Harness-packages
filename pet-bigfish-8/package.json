@@ -1,0 +1,26 @@
+{
+  "name": "@piharness/pet-bigfish-8",
+  "version": "1.0.2",
+  "private": false,
+  "description": "BigFish actions: 口袋里掏出小牌、困惑地图、牌子拿反了、牌子太大了、泡泡落在头上、拼出等候牌、拼起思路、启动小控制台、气球托起牌、铅笔修改",
+  "license": "MIT",
+  "author": {
+    "name": "wangmiao",
+    "email": "tuziling84@gmail.com",
+    "url": "https://github.com/wangmiaozero"
+  },
+  "files": [
+    "clip-pack.json",
+    "clips",
+    "LICENSE",
+    "README.md"
+  ],
+  "piHarness": {
+    "kind": "pet",
+    "compatible": ">=2.4.0",
+    "partOf": "@piharness/pet-bigfish"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

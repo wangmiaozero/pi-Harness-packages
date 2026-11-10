@@ -1,0 +1,185 @@
+{
+  "formatVersion": 1,
+  "clips": {
+    "playful-sign-pocket": {
+      "dir": "clips/playful-sign-pocket",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "口袋里掏出小牌",
+        "en-US": "Sign pocket"
+      },
+      "group": "sign"
+    },
+    "playful-error-question-map": {
+      "dir": "clips/playful-error-question-map",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "困惑地图",
+        "en-US": "Error question map"
+      },
+      "group": "outcome"
+    },
+    "playful-sign-flip": {
+      "dir": "clips/playful-sign-flip",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "牌子拿反了",
+        "en-US": "Sign flip"
+      },
+      "group": "sign"
+    },
+    "playful-easter-oversized-sign": {
+      "dir": "clips/playful-easter-oversized-sign",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "牌子太大了",
+        "en-US": "Easter oversized sign"
+      },
+      "group": "sign"
+    },
+    "playful-easter-bubble-hat": {
+      "dir": "clips/playful-easter-bubble-hat",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "泡泡落在头上",
+        "en-US": "Easter bubble hat"
+      },
+      "group": "easter"
+    },
+    "playful-sign-puzzle": {
+      "dir": "clips/playful-sign-puzzle",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "拼出等候牌",
+        "en-US": "Sign puzzle"
+      },
+      "group": "sign"
+    },
+    "playful-thinking-puzzle": {
+      "dir": "clips/playful-thinking-puzzle",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "拼起思路",
+        "en-US": "Thinking puzzle"
+      },
+      "group": "work"
+    },
+    "playful-command-lever": {
+      "dir": "clips/playful-command-lever",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "启动小控制台",
+        "en-US": "Command lever"
+      },
+      "group": "tools"
+    },
+    "playful-sign-balloon": {
+      "dir": "clips/playful-sign-balloon",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        450,
+        550,
+        600,
+        4800,
+        1800,
+        700
+      ],
+      "labels": {
+        "zh-CN": "气球托起牌",
+        "en-US": "Sign balloon"
+      },
+      "group": "sign"
+    },
+    "playful-edit-pencil": {
+      "dir": "clips/playful-edit-pencil",
+      "frames": 6,
+      "loop": false,
+      "frameDurationsMs": [
+        550,
+        650,
+        650,
+        900,
+        1200,
+        850
+      ],
+      "labels": {
+        "zh-CN": "铅笔修改",
+        "en-US": "Edit pencil"
+      },
+      "group": "tools"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "@piharness/pet-bigfish-16",
+  "version": "1.0.2",
+  "private": false,
+  "description": "BigFish actions: 可爱宅舞、蓝鲸现世、撸猫、萌化小幽灵、女仆屈膝礼仪、螃蟹走路、漂浮踏步、凭空生花、扑克魔术、骑木马",
+  "license": "MIT",
+  "author": {
+    "name": "wangmiao",
+    "email": "tuziling84@gmail.com",
+    "url": "https://github.com/wangmiaozero"
+  },
+  "files": [
+    "clip-pack.json",
+    "clips",
+    "LICENSE",
+    "README.md"
+  ],
+  "piHarness": {
+    "kind": "pet",
+    "compatible": ">=2.4.0",
+    "partOf": "@piharness/pet-bigfish"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
